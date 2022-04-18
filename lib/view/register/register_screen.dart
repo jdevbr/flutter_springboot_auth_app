@@ -1,8 +1,8 @@
-import 'package:auth_app/core/util/string_util.dart';
-import 'package:auth_app/domain/model/dto/register_dto.dart';
-import 'package:auth_app/domain/model/register_model.dart';
-import 'package:auth_app/domain/service/register_service.dart';
-import 'package:auth_app/view/login/login_screen.dart';
+import 'package:auth_migration/core/util/string_util.dart';
+import 'package:auth_migration/domain/model/dto/register_dto.dart';
+import 'package:auth_migration/domain/model/register_model.dart';
+import 'package:auth_migration/domain/service/register_service.dart';
+import 'package:auth_migration/view/login/login_screen.dart';
 import 'package:flutter/material.dart';
 
 class RegisterScreen extends StatefulWidget {

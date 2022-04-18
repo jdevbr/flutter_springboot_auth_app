@@ -1,6 +1,6 @@
-import 'package:auth_app/core/config/app_config.dart';
-import 'package:auth_app/core/util/string_util.dart';
-import 'package:auth_app/core/util/url_util.dart';
+import 'package:auth_migration/core/config/app_config.dart';
+import 'package:auth_migration/core/util/string_util.dart';
+import 'package:auth_migration/core/util/url_util.dart';
 
 class BaseService {
   String path;

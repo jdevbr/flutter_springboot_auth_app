@@ -1,8 +1,8 @@
-import 'package:auth_app/core/auth/token_service.dart';
-import 'package:auth_app/domain/model/dto/login_dto.dart';
-import 'package:auth_app/domain/model/token_model.dart';
-import 'package:auth_app/base/service/base_service.dart';
-import 'package:auth_app/base/custom/custom_http.dart';
+import 'package:auth_migration/core/auth/token_service.dart';
+import 'package:auth_migration/domain/model/dto/login_dto.dart';
+import 'package:auth_migration/domain/model/token_model.dart';
+import 'package:auth_migration/base/service/base_service.dart';
+import 'package:auth_migration/base/custom/custom_http.dart';
 import 'package:http/http.dart';
 
 class LoginService {

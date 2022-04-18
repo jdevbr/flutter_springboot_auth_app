@@ -1,6 +1,6 @@
-import 'package:auth_app/core/auth/token_service.dart';
-import 'package:auth_app/domain/model/token_model.dart';
-import 'package:auth_app/base/service/base_service.dart';
+import 'package:auth_migration/core/auth/token_service.dart';
+import 'package:auth_migration/domain/model/token_model.dart';
+import 'package:auth_migration/base/service/base_service.dart';
 import 'package:http/http.dart' as http;
 
 class AuthService {

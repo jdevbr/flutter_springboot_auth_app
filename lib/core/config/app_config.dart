@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:auth_app/core/util/object_util.dart';
+import 'package:auth_migration/core/util/object_util.dart';
 import 'package:flutter/services.dart';
 
 class AppConfig {

@@ -1,5 +1,5 @@
-import 'package:auth_app/core/util/string_util.dart';
-import 'package:auth_app/domain/model/token_model.dart';
+import 'package:auth_migration/core/util/string_util.dart';
+import 'package:auth_migration/domain/model/token_model.dart';
 import 'package:hive/hive.dart';
 
 class TokenService {

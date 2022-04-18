@@ -1,5 +1,5 @@
-import 'package:auth_app/base/base/enum/content_type_enum.dart';
-import 'package:auth_app/core/auth/token_service.dart';
+import 'package:auth_migration/base/base/enum/content_type_enum.dart';
+import 'package:auth_migration/core/auth/token_service.dart';
 import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
 

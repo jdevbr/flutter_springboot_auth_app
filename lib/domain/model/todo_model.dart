@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:auth_app/base/model/abstract_entity.dart';
+import 'package:auth_migration/base/model/abstract_entity.dart';
 
 class ToDo implements AbstractEntity {
   @override

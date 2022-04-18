@@ -1,4 +1,4 @@
-import 'package:auth_app/view/splash/splash_screen.dart';
+import 'package:auth_migration/view/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:hive_flutter/hive_flutter.dart';

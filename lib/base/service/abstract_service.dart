@@ -1,11 +1,11 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:auth_app/base/base/enum/content_type_enum.dart';
-import 'package:auth_app/base/model/abstract_dto.dart';
-import 'package:auth_app/base/model/abstract_entity.dart';
-import 'package:auth_app/base/service/base_service.dart';
-import 'package:auth_app/base/custom/custom_http.dart';
+import 'package:auth_migration/base/base/enum/content_type_enum.dart';
+import 'package:auth_migration/base/model/abstract_dto.dart';
+import 'package:auth_migration/base/model/abstract_entity.dart';
+import 'package:auth_migration/base/service/base_service.dart';
+import 'package:auth_migration/base/custom/custom_http.dart';
 import 'package:http/http.dart' as http;
 
 abstract class AbstractService<T extends AbstractEntity, E extends AbstractDTO>

@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:auth_app/base/model/abstract_dto.dart';
+import 'package:auth_migration/base/model/abstract_dto.dart';
 
 class RegisterDTO extends AbstractDTO {
   String username;

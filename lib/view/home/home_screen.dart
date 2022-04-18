@@ -1,8 +1,8 @@
-import 'package:auth_app/core/auth/token_service.dart';
-import 'package:auth_app/domain/model/token_model.dart';
-import 'package:auth_app/domain/service/api_service.dart';
-import 'package:auth_app/domain/service/auth_service.dart';
-import 'package:auth_app/view/login/login_screen.dart';
+import 'package:auth_migration/core/auth/token_service.dart';
+import 'package:auth_migration/domain/model/token_model.dart';
+import 'package:auth_migration/domain/service/api_service.dart';
+import 'package:auth_migration/domain/service/auth_service.dart';
+import 'package:auth_migration/view/login/login_screen.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {

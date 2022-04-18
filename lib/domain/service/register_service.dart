@@ -1,9 +1,9 @@
-import 'package:auth_app/base/base/enum/content_type_enum.dart';
-import 'package:auth_app/base/service/base_service.dart';
-import 'package:auth_app/base/service/abstract_service.dart';
-import 'package:auth_app/domain/model/dto/register_dto.dart';
-import 'package:auth_app/domain/model/register_model.dart';
-import 'package:auth_app/base/custom/custom_http.dart';
+import 'package:auth_migration/base/base/enum/content_type_enum.dart';
+import 'package:auth_migration/base/service/base_service.dart';
+import 'package:auth_migration/base/service/abstract_service.dart';
+import 'package:auth_migration/domain/model/dto/register_dto.dart';
+import 'package:auth_migration/domain/model/register_model.dart';
+import 'package:auth_migration/base/custom/custom_http.dart';
 import 'package:http/http.dart';
 
 class RegisterService extends AbstractService<Register, RegisterDTO> {
